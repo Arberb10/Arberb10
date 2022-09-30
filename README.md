@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Arberb10
-- 👀 I’m interested in animations,effects and making a website an artwork 
+- 👀 I’m interested in animations,effects and making a website look like an artwork 
 - 🌱 I’m currently learning react
 - 💞️ I’m looking to collaborate on any projects
 - 📫 How to reach me arberb087@gmail.com
